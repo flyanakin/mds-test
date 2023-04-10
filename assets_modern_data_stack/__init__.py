@@ -11,6 +11,8 @@ from . import assets
 from .db_io_manager import db_io_manager
 from .utils.constants import AIRBYTE_CONFIG, DBT_CONFIG, POSTGRES_CONFIG
 
+cause error
+
 defs = Definitions(
     assets=load_assets_from_package_module(assets),
     resources={
