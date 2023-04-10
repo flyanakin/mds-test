@@ -1,4 +1,4 @@
 locations:
-  - location_name: assets_modern_data_stack
+  - location_name: assets_modern_data_stack_xx
     code_source:
-      package_name: assets_modern_data_stack
+      package_name: assets_modern_data_stack_xx
